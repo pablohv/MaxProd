@@ -1,5 +1,5 @@
 # MaxProd
-MaxProd (Maxima Produccion) Sistema creado para medir el rendimiento de los trabajadores
+<p>MaxProd (Maxima Produccion) Sistema creado para medir el rendimiento de los trabajadores</p>
 
 <h3>Tecnologia<h3>
 <p>Hecho con Java y base de datos en MySQL<p>
