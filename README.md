@@ -14,4 +14,3 @@ si este la acepta se comienza a contar el tiempo y una vez que finaliza empieza 
 <p>El administrador va a poder ver la la fase en la que va algun aparato y puede ver el rendimiento que tuvieron los tecnicos
 durante un mes o el lapto que el desee</p>
 
-<a href="https://drive.google.com/file/d/1DDX4H_Ky0qhtjHxKYG3hbVaK3NFM5CLi/view?usp=sharing">video de app</a>
